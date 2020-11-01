@@ -90,7 +90,7 @@ p {
 
 .benefits {
     margin-right: 20px;
-    padding: 50px;
+    padding: 70px;
     clear: both;
     float: right;
     width: 20%;
@@ -108,24 +108,25 @@ p {
 
 .benefits p {
     color: #ffffff;
+    font-size: 18px;
 }
 
 .benefit-lead {
-    margin: -10px -10px 50px -10px;
+    margin: -30px -40px 120px -40px;
 }
 
 .benefit-brand {
-    margin: -20px -10px 100px -10px;
+    margin: -20px -40px 150px -40px;
 }
 
 .benefit-cost {
-    margin: -30px -10px 0 -10px;
+    margin: -20px -40px 0 -40px;
 }
 
 .benefits img {
     display: block;
     margin: 5px auto;
-    max-width: 130px;
+    max-width: 170px;
 }
 
 /* Benefits End */
