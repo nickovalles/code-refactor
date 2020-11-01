@@ -18,5 +18,5 @@ The site has a codebase that follows accessibility standards so that it is optim
 
 ## Links
 
-See the site at using this [GitHub deployed application link](https://markdownlivepreview.com/). <br/>
+See the site at using this [GitHub deployed application link](https://nickovalles.github.io/code-refactor/). <br/>
 See the code in the [Repository](https://github.com/nickovalles/code-refactor). 
